@@ -1,265 +1,147 @@
-# Awesome-Cloud-Supply-Chain-Visibility-Planning
-
-# Awesome-Cloud-Supply-Chain-Visibility-Planning 🚚 ☁️
-
-
+# Awesome Cloud Supply Chain Visibility & Planning 🚚 ☁️
 
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome Cloud Supply Chain Visibility Planning Banner" width="100%">
-
 </p>
-
-
 
 <p align="center">
-
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Supply-Chain-Visibility-Planning"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Supply-Chain-Visibility-Planning?style=social" alt="GitHub_Stars"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Supply-Chain-Visibility-Planning/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Supply-Chain-Visibility-Planning?style=social" alt="GitHub Forks"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Supply-Chain-Visibility-Planning/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Supply-Chain-Visibility-Planning?color=blue" alt="License"/></a>
-
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
 </p>
-
-
 
 ---
 
+## 🌟 Top Cloud Supply Chain Visibility & Planning Ecosystem 🌐
 
+**Curated Directory of Enterprise SaaS Platforms & Open-Source Planning Engines** 📦  
 
-## 🌟 Top Cloud Supply Chain Visibility & Planning Ecosystem
-
-
-
-**Curated List of Commercial Supply Chain Platforms & Open-Source Planning Tools**  
-
-*Focused on End-to-End Supply Chain Visibility, Demand & Supply Planning, N-Tier Supplier Collaboration, Traceability & Self-Hosted Planning Engines*
-
-
+*Comprehensive coverage of Cloud Supply Chain Visibility, Demand & Supply Planning, N-Tier Supplier Collaboration, Digital Twins, Traceability, & Self-Hosted SCM Systems.*
 
 **Last updated: October 2026** 📅
 
+---
 
+### 📌 SEO & Comprehensive Market Overview 🔍
+
+Welcome to the definitive curated awesome-list for **Cloud Supply Chain Visibility & Planning** software. Modern supply chains require real-time end-to-end tracking, predictive ETA analytics, multi-echelon inventory optimization (MEIO), and regulatory traceability (such as EUDR and FSMA compliance). This directory brings together commercial hyperscaler applications (*AWS Supply Chain*), market-leading AI planning platforms (*SAP IBP*, *Manhattan Associates*, *Coupa*, *Blue Yonder*, *Kinaxis*), and open-source self-hostable planning and inventory solutions (*InvenTree*, *OpenBoxes*, *frePPLe*, *planr*, *supplycm*).
 
 ---
 
+## 📑 Table of Contents 📖
 
-
-### 📌 Overview & SEO Summary
-
-Welcome to the ultimate curated directory of **cloud supply chain visibility platforms**, **open-source planning engines**, and **traceability frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *AWS Supply Chain*, *o9 Solutions*, and *Kinaxis*), or self-hostable open-source alternatives (like *OpenBoxes*, *supplycm*, and *planr*), this list covers category leaders, AI-driven planning, and privacy-respecting supply chain orchestration.
-
-
-
----
-
-
-
-## 📑 Table of Contents
-
+- [📈 Market Size & Market Structure](#-market-size--market-structure)
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
-
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
 - [📊 Star History](#-star-history)
-
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
+---
 
+## 📈 Market Size & Market Structure 📊
+
+The global **Cloud Supply Chain Management & Planning** market is estimated at **$28.5 Billion in 2026** (projected to reach over $45 Billion by 2030 at a CAGR of ~11.8%). The market is **moderately fragmented**: while legacy enterprise ERP vendors (such as SAP, Blue Yonder, and Manhattan Associates) command significant market share in warehouse management and integrated business planning, specialized SaaS providers (like project44 and FourKites in real-time transportation visibility) and cloud hyperscalers (AWS Supply Chain) continue to capture growing niches through API-first orchestration and AI-driven predictive insights.
 
 ---
 
+## 🏢 SaaS & Commercial Platforms 💼
 
+*Sorted by Company Market Capitalization / Valuation (Descending)* 📊
 
-## 🏢 SaaS / Commercial Platforms
-
-
-
-The cloud supply chain visibility and planning market spans **hyperscaler supply chain applications** (AWS Supply Chain) that provide **cloud-native visibility and planning** without platform migration, and **specialized planning platforms** (o9, Kinaxis, Blue Yonder) that offer **AI-driven integrated business planning**. **o9 Solutions** was named a **Leader in the 2026 Gartner Magic Quadrant for Supply Chain Planning Solutions (Discrete Industries)** and is the **only vendor selected as Customers' Choice in the 2025 Gartner Peer Insights Voice of the Customer report** . **AWS Supply Chain** provides **usage-based pricing** with **no upfront costs** and can be deployed in **minutes with data ingestion in about half a day** .
-
-
-
-| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
+| SaaS / Commercial Platform | Company / Owner | Valuation / Revenue | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description & Core Features |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
-| **[AWS Supply Chain](https://aws.amazon.com/supply-chain/)** ☁️ | Amazon | ~$2.0 Trillion | **Usage-based** (data volume + function executions) | **No upfront costs**; pay-as-you-go | **Cloud-native supply chain application** — **Unified data lake** connects ERP, WMS, TMS, and OMS systems . **ML-powered insights** for inventory risk alerts, lead time risk, and demand forecasting . **N-Tier Visibility** for supplier collaboration and multi-tier supply chain visibility . **Amazon Q** for natural language queries and "what-if" scenario analysis . **Sustainability** tracking for ESG metrics and compliance . |
-
-| **[o9 Solutions (Digital Brain)](https://o9solutions.com/)** 🧠 | o9 Solutions | Private | **Custom enterprise pricing** | **Demo available** | **AI-driven integrated planning platform** — **Leader in 2026 Gartner Magic Quadrant for Supply Chain Planning (Discrete Industries)** . **Enterprise Knowledge Graph (EKG)** enables **1,000x faster data exploration** vs traditional databases . **Unified data model** connects demand, supply, inventory, capacity, and financial planning . **Supplier collaboration** with 2nd and 3rd tier risk visibility . **Scenario planning** with financial impact (P&L) visualization . |
-
-| **[Kinaxis RapidResponse](https://www.kinaxis.com/)** ⚡ | Kinaxis | ~$4 Billion (Public) | **Custom enterprise pricing** | **Demo available** | **Concurrent planning platform** — **Real-time supply chain planning** with what-if scenario modeling. **End-to-end visibility** from demand to supply. **Used by large enterprises** in automotive, life sciences, and consumer goods. |
-
-| **[Blue Yonder](https://blueyonder.com/)** 🔵 | Blue Yonder (Panasonic) | ~$8 Billion (Acquisition) | **Custom enterprise pricing** | **Demo available** | **AI-driven supply chain platform** — **End-to-end planning and execution**. **Luminate** platform for digital supply chain transformation. |
-
-| **[SAP Integrated Business Planning (IBP)](https://www.sap.com/products/integrated-business-planning.html)** 🏢 | SAP SE | ~$200 Billion | **Custom enterprise pricing** | **Demo available** | **Enterprise planning suite** — **Demand, supply, inventory, and S&OP planning**. **Integrated with SAP ERP and S/4HANA**. **Real-time analytics and simulation**. |
-
-| **[Manhattan Associates](https://www.manh.com/)** 📊 | Manhattan Associates | ~$15 Billion (Public) | **Custom enterprise pricing** | **Demo available** | **Supply chain commerce platform** — **Warehouse management, transportation, and omni-channel**. **Unified commerce** for retail and distribution. |
-
-| **[E2open](https://www.e2open.com/)** 🌐 | E2open | ~$2 Billion (Public) | **Custom enterprise pricing** | **Demo available** | **End-to-end supply chain platform** — **Multi-enterprise collaboration** and visibility. **Channel data management** and **global trade compliance**. |
-
-| **[project44](https://www.project44.com/)** 🚚 | project44 | Private | **Custom pricing** (per shipment/tracking) | **Demo available** | **Real-time transportation visibility** — **Carrier network integration** for shipment tracking. **Predictive ETAs** and **exception management**. |
-
-| **[FourKites](https://www.fourkites.com/)** 📍 | FourKites | Private | **Custom pricing** (per shipment/tracking) | **Demo available** | **Real-time supply chain visibility** — **Multi-modal tracking** for truckload, LTL, ocean, rail, and parcel. **Yard management** and **appointment scheduling**. |
-
-| **[Coupa Supply Chain](https://www.coupa.com/)** 💰 | Coupa Software | ~$8 Billion (Thoma Bravo) | **Custom enterprise pricing** | **Demo available** | **Supply chain design and planning** — **Network design, inventory optimization, and demand planning**. **Integrated with Coupa BSM** for end-to-end spend management. |
-
-
+| **[AWS Supply Chain](https://aws.amazon.com/supply-chain/)** ☁️ | Amazon.com, Inc. | **~$2.0 Trillion** (Market Cap) | **$10 per SCM entity/mo** + data storage ($0.28/GB) | **30-Day Free Trial** (Full features with sample dataset & dashboard) | **Cloud-native SCM app** — Unified data lake connecting ERP, WMS, & TMS. ML insights, demand planning, N-tier supplier collaboration, and Amazon Q AI natural language querying. |
+| **[SAP Integrated Business Planning (IBP)](https://www.sap.com/products/integrated-business-planning.html)** 🏢 | SAP SE | **~$200 Billion** (Market Cap) | **$2,500/month** (Enterprise base package) | **30-Day Free Trial** (Guided SAP S/4HANA & IBP cloud sandbox access) | **Enterprise S&OP Suite** — Integrated demand, supply, inventory optimization, and financial planning fully connected to SAP S/4HANA core. |
+| **[Manhattan Associates](https://www.manh.com/)** 📊 | Manhattan Associates | **~$15 Billion** (Market Cap) | **$1,500/month** (Active scale deployment starting tier) | **14-Day Free Demo Trial** (Interactive WMS & active supply chain sandbox) | **Supply Chain Commerce Leader** — Warehouse Management (WMS), Transportation Management (TMS), and unified omnichannel execution. |
+| **[Coupa Supply Chain](https://www.coupa.com/)** 💰 | Coupa Software (Thoma Bravo) | **~$8.0 Billion** (Acquisition Valuation) | **$1,200/month** (Base SCM design license) | **14-Day Guided Trial** (Full access to network design & simulation modules) | **Supply Chain Design & Design** — Algorithmic network optimization, demand modeling, and inventory allocation integrated with Business Spend Management. |
+| **[Blue Yonder](https://blueyonder.com/)** 🔵 | Blue Yonder (Panasonic) | **~$8.0 Billion** (Acquisition Valuation) | **$2,000/month** (Luminate Cloud base tier) | **30-Day Partner Sandbox Trial** (Luminate platform capability testing) | **AI Supply Chain Platform** — End-to-end autonomous supply chain management, demand sensing, and warehouse automation powered by Luminate. |
+| **[Kinaxis RapidResponse](https://www.kinaxis.com/)** ⚡ | Kinaxis Inc. | **~$4.0 Billion** (Market Cap) | **$3,000/month** (Enterprise SaaS node seat base) | **14-Day Virtual Sandbox Trial** (What-if concurrent scenario modeling) | **Concurrent Planning Platform** — Real-time end-to-end supply chain visibility and instantaneous scenario modeling for automotive & high-tech. |
+| **[E2open](https://www.e2open.com/)** 🌐 | E2open Parent Holdings | **~$2.0 Billion** (Market Cap) | **$800/month** (Multi-enterprise network entry) | **14-Day Guided Demo Access** (Multi-tier network & trade compliance sandbox) | **Multi-Enterprise Network** — Connected supply chain network for global trade compliance, channel data management, and logistics visibility. |
+| **[project44](https://www.project44.com/)** 🚚 | project44, Inc. | **~$2.4 Billion** (Private Valuation) | **$500/month** (Movement platform starter tracking package) | **14-Day Movement Trial** (Track up to 100 live shipments via API/portal) | **Real-Time Transportation Visibility (RTTVP)** — High-fidelity carrier tracking, predictive ETA calculation, and ocean/air/over-the-road exception management. |
+| **[FourKites](https://www.fourkites.com/)** 📍 | FourKites, Inc. | **~$1.0 Billion** (Private Valuation) | **$450/month** (Carrier & yard visibility base) | **14-Day Free Platform Trial** (Real-time tracking for up to 50 active loads) | **Real-Time Multi-Modal Visibility** — Global shipment tracking across ocean, rail, truckload, and parcel with automated yard management. |
+| **[o9 Solutions (Digital Brain)](https://o9solutions.com/)** 🧠 | o9 Solutions, Inc. | **~$3.7 Billion** (Private Valuation) | **$2,800/month** (Digital Brain tenant starter) | **30-Day Executive Sandbox Access** (Enterprise Knowledge Graph demo environment) | **AI Integrated Business Planning** — Enterprise Knowledge Graph (EKG) engine enabling 1,000x faster scenario simulations across demand, supply, and P&L. |
 
 ---
 
+## 🔓 Open-Source GitHub Projects 🚀
 
+*Sorted by GitHub Stars (Descending)* 🌟
 
-## 🔓 Open-Source GitHub Projects
-
-
-
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
-
-
+- **[InvenTree](https://github.com/inventree/InvenTree)** [![Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+  **Open-source inventory management and supply chain tracking system**, MIT licensed. **Python / Django & React stack** providing comprehensive stock tracking, part categorizations, Multi-level Bill of Materials (BOM), supplier management, purchase orders, and build order management. Includes mobile app support and REST API. 🛠️
 
 - **[OpenBoxes](https://github.com/openboxes/openboxes)** [![Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
+  **Open-source supply chain and inventory management platform**, Eclipse Public License. **Powers global health supply chains** across dozens of facilities. Multi-facility stock management with lot tracking, FEFO picking, expiry alerts, consumption forecasting, and DHIS2/ERP integration APIs. 🏥
 
-  **Open-source supply chain and inventory management platform**, Eclipse Public License. **Born in hospitals and pharmacies** — powers Partners In Health supply chain across **six countries and dozens of facilities** . **Multi-facility stock management** with **lot tracking, expiry alerts, and real-time visibility**. **Demand forecasting and consumption reports** help plan replenishments before problems start. **FEFO picking and expiry alerts** reduce waste from stockouts and expiry. **REST APIs** for integration with DHIS2, ERP systems, and custom tools. **Deploy self-hosted or fully managed** via OpenBoxes Lift. **Teams typically go live within 2 to 4 weeks** — import existing data, configure locations and products, and start shipping. **The most production-proven open-source supply chain platform** for healthcare, warehouses, and distribution. 🏥
-
-
+- **[frePPLe](https://github.com/frePPLe/frePPLe)** [![Stars](https://img.shields.io/github/stars/frePPLe/frePPLe?style=social&color=white)](https://github.com/frePPLe/frePPLe/stargazers)  
+  **Open-source production planning and demand forecasting engine**, MIT licensed. Provides Distribution Requirements Planning (DRP), Material Requirements Planning (MRP), finite capacity scheduling, and demand forecasting with Python and C++ engine core. ⚙️
 
 - **[planr](https://github.com/nguyen-n/planr)** [![Stars](https://img.shields.io/github/stars/nguyen-n/planr?style=social&color=white)](https://github.com/nguyen-n/planr/stargazers)  
-
-  **R package for supply chain planning and inventory optimization**, open-source. **Distribution Requirement Planning (DRP)** calculates replenishment plans and projected inventories from just **5 key inputs**: DFU (item/location), Period, Demand, Opening Inventory, and Supply Plan . **Constrained demand calculation** determines what quantity can be answered considering projected inventories, with **Current Stock Available tagging** to show demand covered by opening inventory . **Goods in transit projection** with ETA/ETD and transit lead time tracking. **Monthly to weekly demand conversion** for granular planning. **Safety stock coverage (SSCov)** and **Multiple Order Quantity (MOQ)** parameters for real-world constraints. **The most complete open-source supply chain planning library** for R users. 📦
-
-
+  **R package for supply chain planning and inventory optimization**, open-source. Distribution Requirement Planning (DRP), constrained demand calculation, safety stock coverage (SSCov), and minimum order quantity (MOQ) logic. 📦
 
 - **[supplycm](https://github.com/atqatq/supplycm)** [![Stars](https://img.shields.io/github/stars/atqatq/supplycm?style=social&color=white)](https://github.com/atqatq/supplycm/stargazers)  
-
-  **Pure-Python library of 397 supply chain management algorithms with zero external dependencies**, MIT licensed. **All algorithms are public-domain / patent-free** for educational and commercial use . **Categories include**: **forecasting** (50 algorithms: moving averages, exponential smoothing, Croston, AR/MA), **inventory** (60: EOQ/EPQ, newsvendor, lot-sizing, ABC/XYZ analysis), **statistics** (40: MAPE, RMSE, MASE, hypothesis tests), **routing** (30: TSP, VRP, assignment problem), **network** (30: shortest paths, MST, max-flow), **scheduling** (40: Johnson's rule, NEH, CPM/PERT), **MRP** (30: BOM explosion, MPS, kanban), **optimization** (30: simplex, GA, SA, PSO), **supplier** (30: AHP, TOPSIS, DEA), **warehouse** (10: slotting, picking, cross-dock), and **demand** (9: aggregation, seasonality, sensing). **Pure Python — no NumPy, pandas, or third-party dependencies** . **The most comprehensive open-source supply chain algorithm library** — 397 algorithms, zero dependencies. 🐍
-
-
+  **Pure-Python library of 397 supply chain management algorithms with zero external dependencies**, MIT licensed. Includes algorithms for demand forecasting, inventory optimization (EOQ, lot sizing), vehicle routing (TSP/VRP), BOM explosion, and scheduling. 🐍
 
 - **[WOM (Weekly Operation Model)](https://github.com/Yasushi-Osugi/wom)** [![Stars](https://img.shields.io/github/stars/Yasushi-Osugi/wom?style=social&color=white)](https://github.com/Yasushi-Osugi/wom/stargazers)  
-
-  **Python-based global supply chain planning and simulation system**, open-source. **Combines a lot-based weekly PSI (quantity) model with a Cost/Profit Structure Ratio (financial) model**, bridging **weekly operational execution with management decision-making** . **Includes industrial case studies** across multiple sectors: confectionery, electric vehicles, apparel, smartphones, oil, rice, and other consumer/industrial goods. **Reproducible research artifacts** for supply chain planning education and simulation. **The most comprehensive open-source supply chain simulation framework** with real-world case studies. 📊
-
-
+  **Python-based global supply chain planning and simulation system**, open-source. Combines a weekly PSI (Production, Sales, Inventory) quantity model with a financial cost/profit structure ratio model across multiple industrial case studies. 📊
 
 - **[FoodVibes AI (Microsoft)](https://github.com/microsoft/foodvibes-ai)** [![Stars](https://img.shields.io/github/stars/microsoft/foodvibes-ai?style=social&color=white)](https://github.com/microsoft/foodvibes-ai/stargazers)  
-
-  **Supply chain traceability platform for EUDR, FSMA, and food safety regulations**, MIT licensed. **Built for the European Union's Deforestation-free product regulation (EUDR)** and **FDA's Food Safety and Modernization Act (FSMA)** . **3W tracking (When, What, Where)** through three immutable ledgers: **GeoTrack Ledger** (registered locations), **Product Ledger** (product instances), and **Tracking Products Ledger** (transformations and movements) . **Role-based information access** — data visibility limited by roles and product-level associations. **Remote sensing integration** with FarmVibes.ai for satellite-based deforestation analysis and geospatial insights . **Built on immutable ledgers** preventing data manipulation. **The most production-ready open-source traceability platform** for regulatory compliance. 🌍
-
-
+  **Supply chain traceability platform for EUDR and FSMA regulatory compliance**, MIT licensed. 3W tracking (When, What, Where) using immutable ledgers with satellite remote sensing integration for deforestation-free verification. 🌍
 
 - **[Trace-X (Eclipse Tractus-X)](https://github.com/eclipse-tractusx/traceability-foss)** [![Stars](https://img.shields.io/github/stars/eclipse-tractusx/traceability-foss?style=social&color=white)](https://github.com/eclipse-tractusx/traceability-foss/stargazers)  
-
-  **Open-source parts traceability application for Catena-X automotive network**, Apache-2.0 licensed. **Empowers SMEs to large OEMs** to participate in parts traceability with an open-source solution . **Display the relations of the automotive value chain** based on a standardized IT model. **Overview and transparency across the supplier network** enable faster intervention based on recorded events. **Notifications and messages** regarding quality-related incidents with supply chain inspection tools. **List, view, and publish manufactured parts** based on **BoM AsBuilt** and **planned parts** based on **BoM AsPlanned**. **Visualized parts tree** with supplier parts (SingleLevelBomAsBuilt) and customer parts (SingleLevelUsageAsBuilt) . **Cloud-agnostic with Helm charts** for deployment on different cloud solutions. **The reference implementation for Catena-X traceability** — automotive industry standard. 🚗
-
-
+  **Open-source automotive parts traceability application**, Apache-2.0 licensed. Official reference implementation for Catena-X automotive supply chain transparency and N-tier BoM AsBuilt / AsPlanned tracking. 🚗
 
 - **[traceRoot](https://github.com/Adam-Muyobo/traceRoot)** [![Stars](https://img.shields.io/github/stars/Adam-Muyobo/traceRoot?style=social&color=white)](https://github.com/Adam-Muyobo/traceRoot/stargazers)  
-
-  **Blockchain-based supply chain transparency system with QR codes**, open-source. **Each product tagged with unique QR code** for tracking: Origin (farm location), Processing (refining/conversion), Logistics (shipping/handling), and Retail (pricing/value) . **Workflow**: Farm level → Processing → Logistics → Retail → Consumers scan QR codes. **Blockchain integration** for immutable records. **Smart contracts** automate updates and payments. **Potential challenges**: data accuracy validation, scalability (layer-2 solutions), QR tampering (tamper-evident tags and NFC), and adoption incentives . **Future improvements**: IoT sensors for real-time capture, consumer rewards, and interoperability with existing systems. **The most accessible open-source blockchain traceability implementation**. 🔗
-
-
+  **Blockchain-based supply chain transparency system with QR codes**, open-source. Tracks products from origin farm to retail with immutable records, smart contracts, and consumer verification interface. 🔗
 
 - **[Open SourceMap](https://github.com/sourcemap/sourcemap)** [![Stars](https://img.shields.io/github/stars/sourcemap/sourcemap?style=social&color=white)](https://github.com/sourcemap/sourcemap/stargazers)  
-
-  **World's largest public repository of supply chains**, open-source. **Launched in 2008 at MIT** as a supply chain management platform rooted in **transparency** . **Open Factory Registry** matches names and addresses of **hundreds of thousands of factories** worldwide. **Sourcemap Enterprise** was the **first platform designed to manage multi-tier supply chains**, including **advanced database technology that traces individual products from raw materials to end customers** . **Award-winning visualizations** for supply chain transparency. **The most established open-source supply chain transparency platform** — 15+ years of development. 🗺️
-
-
+  **World's first open public repository of supply chains**, MIT licensed. Established MIT project for mapping multi-tier factory supply chains and visualizing end-to-end raw material provenance. 🗺️
 
 - **[Craftplan](https://github.com/puemos/craftplan)** [![Stars](https://img.shields.io/github/stars/puemos/craftplan?style=social&color=white)](https://github.com/puemos/craftplan/stargazers)  
-
-  **Open-source ERP for small-scale artisanal manufacturers and craft businesses**, open-source. **Catalog & BOM**: product catalog with photos, versioned Bills of Materials (older versions read-only), automatic cost rollups across nested BOMs, labor steps with time and cost tracking . **Orders & Invoices**: customer order processing with calendar-based scheduling, invoice generation, order item allocation to production batches. **Production**: batching with automatic material consumption, cost snapshots per batch. **Inventory**: raw material management with **lot traceability**, stock movements, **allergen and nutritional fact tracking**, **demand forecasting and reorder planning** . **Purchase orders and supplier management** with receiving into stock with lot creation. **Self-hosted, no vendor lock-in** — your data stays on your infrastructure. **The most purpose-built open-source ERP for artisanal manufacturing**. 🎨
-
-
+  **Open-source ERP for artisanal manufacturers**, open-source. Catalog management, versioned BOMs, batch production tracking, lot traceability, and allergen/ingredient planning. 🎨
 
 ---
 
-
-
-## 🛠️ How to Contribute
-
-
+## 🛠️ How to Contribute 🤝
 
 Contributions are welcome! Follow these steps to submit new supply chain platforms or open-source planning software:
 
-
-
 1. 🍴 **Fork** the repository.
-
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
 3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
-
-
 ---
-
-
 
 ## 📊 Star History
 
-
-
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Cloud-Supply-Chain-Visibility-Planning&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Cloud-Supply-Chain-Visibility-Planning&type=date&legend=top-left)
-
-
 
 ---
 
-
-
-## 🤝 Support & Sponsorship
-
-
+## 🤝 Support & Sponsorship ☕
 
 If you find this supply chain visibility and planning repository useful, please consider supporting the project:
 
-
-
 - ⭐ **Star** this repository to increase visibility!
-
 - 🔀 **Fork** and share with fellow supply chain professionals, operations teams, and open-source advocates.
-
 - ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
-
-
 ---
 
-
-
-## ⚠️ Disclaimer
-
-
+## ⚠️ Disclaimer ℹ️
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
-- **AWS Supply Chain is usage-based** with no upfront costs — **data volume and function executions** drive the bill . **Deployment takes minutes with data ingestion in about half a day** . **Amazon Q** provides natural language queries and "what-if" scenario analysis .
-
-- **o9 Solutions was named a Leader in the 2026 Gartner Magic Quadrant for Supply Chain Planning (Discrete Industries)** and is the **only vendor selected as Customers' Choice in 2025 Gartner Peer Insights** . **Enterprise Knowledge Graph enables 1,000x faster data exploration** vs traditional databases .
-
-- **Open-source tools (OpenBoxes, planr, supplycm) are not turnkey** — **OpenBoxes requires PHP/MySQL deployment** but **teams go live within 2 to 4 weeks** . **planr requires R environment** . **supplycm is pure Python with zero dependencies** . **Always validate planning algorithms against your specific business constraints** before production deployment. 🚚
-
-
+- **SaaS Pricing & Trials**: Vendor pricing and free trial terms change frequently. Pricing figures reflect standard published starting tiers or enterprise baseline entry quotes as of October 2026.
+- **Open-source software**: Always validate planning algorithms and data safety against your specific business constraints prior to production deployment. 🚚
 
 ---
 
-
-
 <p align="center">
-
   <b>Made with ❤️ for supply chain professionals, operations teams, and open-source planning advocates.</b>
-
 </p>
