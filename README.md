@@ -70,7 +70,7 @@ The global **Cloud Supply Chain Management & Planning** market is estimated at *
 
 ## 🔓 Open-Source GitHub Projects 🚀
 
-*Sorted by GitHub Stars (Descending)* 🌟
+*Sorted by GitHub_Stars (Descending)* 🌟
 
 - **[InvenTree](https://github.com/inventree/InvenTree)** [![Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
   **Open-source inventory management and supply chain tracking system**, MIT licensed. **Python / Django & React stack** providing comprehensive stock tracking, part categorizations, Multi-level Bill of Materials (BOM), supplier management, purchase orders, and build order management. Includes mobile app support and REST API. 🛠️
